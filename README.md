@@ -1,4 +1,4 @@
-### Hi there 👋
+### I have been a person who loved sports and been excited to try new things in which I am always finding new hobbies. But one thing that has never change is my love for solving puzzles and challenging myself. So, I wanted to find a job where I could do what I love long term, and software development was the answer for me.
 
 <!--
 **Wilvanson/Wilvanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
