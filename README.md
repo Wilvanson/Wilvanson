@@ -4,6 +4,23 @@
 
 # Tech Stach
 - Java
+- JavaScript
+- Python
+- SQL
+- React/Redux
+- Git
+- HTML
+- CSS
+- PostgreSQL
+- API
+- Flask
+- Express.js
+- SQLAlchemy
+- Sequelize
+- Node.js
+- Angular
+- Spring
+- Spring Boot
 <!--
 **Wilvanson/Wilvanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
